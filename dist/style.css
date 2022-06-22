@@ -1,0 +1,10 @@
+#btndiv {
+  display: flex;
+  justify-content: center;
+}
+
+#btndiv button {
+  margin: 8px;
+  width: 128px;
+  height: 64px;
+}
