@@ -20,6 +20,10 @@ homeBtn.setAttribute('id', 'homebtn');
 menuBtn.setAttribute('id', 'menubtn');
 contBtn.setAttribute('id', 'contactbtn');
 
+homeBtn.innerText = 'Home';
+menuBtn.innerText = 'Menu';
+contBtn.innerText = 'Contact Us!';
+
 btnDiv.appendChild(homeBtn);
 btnDiv.appendChild(menuBtn);
 btnDiv.appendChild(contBtn);
